@@ -49,6 +49,8 @@
 <p align="left">- 💾 &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></code>
+<code align="left"><img height="20" src="https://img.shields.io/badge/quick-db-blue" /></code>
+
 </p>
 
 ## 📝 Discord Server

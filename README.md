@@ -16,7 +16,7 @@
 <table>
   <tr>
      <td align="center"><a href="https://github.com/DabdobaDev"><img src="https://github.com/DabdobaDev.png" width="100px;" alt=""/><br /><sub><b>Dbdoba ✨</b></sub></a><br /><a  title="Founder">👑</a></td>
-     <td align="center"><a href="https://github.com/Abdo30004"><img src="https://github.com/Abdo30004.png" width="100px;" alt=""/><br /><sub><b>Abud</b></sub></a><br /><a  title="Manager"></a></td>
+     <td align="center"><a href="https://github.com/Abdo30004"><img src="https://github.com/Abdo30004.png" width="100px;" alt=""/><br /><sub><b>Abud</b>💻</sub></a><br /><a  title="Manager"></a></td>
     <td align="center"><a href="https://github.com/DevNaAlo"><img src="https://github.com/DevNaAlo.png" width="100px;" alt=""/><br /><sub><b>Ali</b></sub></a><br /><a  title="OwnerShip">👑</a></td>
   </tr>
   
